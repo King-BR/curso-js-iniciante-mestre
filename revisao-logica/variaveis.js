@@ -1,3 +1,5 @@
+// Variables
+
 // var -> (ES5, cross-browser) global level scope
 var var1 = "test"; // 'test' | `test`
 var var2 = 2;
