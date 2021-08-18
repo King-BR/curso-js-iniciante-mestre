@@ -22,7 +22,7 @@ var var1;
 */
 
 // ----------------------------------------------------------------------------------
-// let -> (ES2015) block level scope
+// let -> (ES6|ES2015) block level scope
 let let1 = "test"; // 'test' | `test`
 let let2 = 2;
 let let3 = 5.0;
@@ -45,7 +45,7 @@ let let1;
 
 
 // ----------------------------------------------------------------------------------
-// const -> (ES2015) block level scope
+// const -> (ES6|ES2015) block level scope
 const const1 = "test"; // 'test' | `test`
 const const2 = 2;
 const const3 = 5.0;
